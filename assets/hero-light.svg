@@ -43,8 +43,7 @@
   <!-- footer roles -->
   <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" opacity="0">
     <circle cx="97" cy="444" r="4" fill="#9A6B3C"/>
-    <text x="112" y="449" fill="#6B6660" font-size="14.5" font-weight="600" letter-spacing="3.5">CAIO · CTO · CMO · ARCHITECT · VIBECODER · MUSICIAN · WRITER</text>
-    <text x="1110" y="449" text-anchor="end" fill="#6B6660" font-size="14.5" font-weight="500" letter-spacing="3.5">AI-NATIVE SYSTEMS</text>
+    <text x="112" y="449" fill="#6B6660" font-size="13.5" font-weight="600" letter-spacing="3.2">CAIO · CTO · CMO · CREATIVE DIRECTOR · ARCHITECT · VIBECODER · WRITER</text>
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.2s" fill="freeze"/>
   </g>
 </svg>
