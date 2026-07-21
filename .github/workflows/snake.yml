@@ -1,11 +1,12 @@
 name: generate snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
+  # schedule/push disabled until a classic PAT (read:user) is added as
+  # secret GH_PAT and wired below — GITHUB_TOKEN lacks GraphQL budget for
+  # the contribution query. See README notes.
+  # schedule:
+  #   - cron: "0 */12 * * *"
 
 permissions:
   contents: write
