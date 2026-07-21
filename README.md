@@ -230,6 +230,7 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
 
 <p align="center">
   <a href="https://brthls.com"><img src="https://img.shields.io/badge/brthls.com-161b22?style=flat-square&logo=safari&logoColor=B8895B" alt="Web"></a>
+  <a href="https://music.brthls.com"><img src="https://img.shields.io/badge/Music%20·%20EPK-161b22?style=flat-square&logo=applemusic&logoColor=B8895B" alt="Music"></a>
   <a href="https://linkedin.com/in/berthelius"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=B8895B" alt="LinkedIn"></a>
   <a href="https://x.com/berthelius"><img src="https://img.shields.io/badge/@berthelius-161b22?style=flat-square&logo=x&logoColor=B8895B" alt="X"></a>
   <a href="https://dev.to/brthls"><img src="https://img.shields.io/badge/dev.to-161b22?style=flat-square&logo=devdotto&logoColor=B8895B" alt="dev.to"></a>
