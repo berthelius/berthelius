@@ -11,7 +11,8 @@
 
 <p align="center">
   <em>I build brands and machines that run themselves.</em><br>
-  <sub>Founder-operator across strategy, engineering &amp; creative direction — turning ideas into AI-native systems that ship on their own.</sub>
+  <sub>Founder-operator across strategy, engineering &amp; creative direction — turning ideas into AI-native systems that ship on their own.</sub><br>
+  <sub>◇ &nbsp;Shipping for the web since <b>1999</b> — Flash &amp; ActionScript → XHTML → HTML5 → AI-native. &nbsp;27 years, nearly every layer of the stack.</sub>
 </p>
 
 <p align="center">
@@ -54,6 +55,20 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
 <br>
 
 <h3 align="center">◇ &nbsp;S T A C K</h3>
+<p align="center"><sub><i>From the Flash era to AI-native — a 27-year toolbox. A curated slice:</i></sub></p>
+
+<p align="center"><sub><b>F O U N D A T I O N S</b> &nbsp;·&nbsp; <i>where it started</i></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flash-161b22?style=flat-square&logoColor=B8895B" alt="Flash">
+  <img src="https://img.shields.io/badge/ActionScript-161b22?style=flat-square&logoColor=B8895B" alt="ActionScript">
+  <img src="https://img.shields.io/badge/XHTML-161b22?style=flat-square&logoColor=B8895B" alt="XHTML">
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=B8895B" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=B8895B" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-161b22?style=flat-square&logo=sass&logoColor=B8895B" alt="Sass">
+  <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=B8895B" alt="PHP">
+  <img src="https://img.shields.io/badge/jQuery-161b22?style=flat-square&logo=jquery&logoColor=B8895B" alt="jQuery">
+  <img src="https://img.shields.io/badge/Ruby-161b22?style=flat-square&logo=ruby&logoColor=B8895B" alt="Ruby">
+</p>
 
 <p align="center"><sub><b>L A N G U A G E S</b></sub></p>
 <p align="center">
