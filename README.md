@@ -105,6 +105,8 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
   <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=B8895B" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=B8895B" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=B8895B" alt="MySQL">
+  <img src="https://img.shields.io/badge/Neon-161b22?style=flat-square&logo=neon&logoColor=B8895B" alt="Neon">
+  <img src="https://img.shields.io/badge/TiDB%20Cloud-161b22?style=flat-square&logoColor=B8895B" alt="TiDB Cloud">
 </p>
 
 <p align="center"><sub><b>R O B L O X · &nbsp;G A M E D E V</b></sub></p>
@@ -157,6 +159,14 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
   <img src="https://img.shields.io/badge/LiteLLM-161b22?style=flat-square&logoColor=B8895B" alt="LiteLLM">
   <img src="https://img.shields.io/badge/Smithery-161b22?style=flat-square&logoColor=B8895B" alt="Smithery">
   <img src="https://img.shields.io/badge/OpenAI%20Codex-161b22?style=flat-square&logo=openai&logoColor=B8895B" alt="OpenAI Codex">
+</p>
+
+<p align="center"><sub><b>A I &nbsp; C R E A T I V E · &nbsp;G E N E R A T I V E &nbsp; M E D I A</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ComfyUI-161b22?style=flat-square&logoColor=B8895B" alt="ComfyUI">
+  <img src="https://img.shields.io/badge/Magnific-161b22?style=flat-square&logoColor=B8895B" alt="Magnific">
+  <img src="https://img.shields.io/badge/Flora-161b22?style=flat-square&logoColor=B8895B" alt="Flora">
+  <img src="https://img.shields.io/badge/LTX%20Studio-161b22?style=flat-square&logoColor=B8895B" alt="LTX Studio">
 </p>
 
 <p align="center"><sub><b>Q U A L I T Y · &nbsp;A N A L Y T I C S · &nbsp;A R C H I T E C T U R E</b></sub></p>
