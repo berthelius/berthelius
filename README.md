@@ -204,5 +204,5 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
 </p>
 
 <p align="center">
-  <sub>CAIO · CTO · CMO · Creative Director · Architect · Vibecoder · Writer &nbsp;—&nbsp; AI-native systems, shipped daily.</sub>
+  <sub>CAIO · CTO · CMO · Creative Director · Systems Architect · Vibecoder · Writer &nbsp;—&nbsp; AI-native systems, shipped daily.</sub>
 </p>

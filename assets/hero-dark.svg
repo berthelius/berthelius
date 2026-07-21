@@ -43,7 +43,7 @@
   <!-- footer roles -->
   <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" opacity="0">
     <circle cx="97" cy="510" r="4" fill="#B8895B"/>
-    <text x="112" y="515" fill="#8b949e" font-size="13.5" font-weight="600" letter-spacing="3.2">CAIO · CTO · CMO · CREATIVE DIRECTOR · ARCHITECT · VIBECODER · WRITER</text>
+    <text x="112" y="515" fill="#8b949e" font-size="13.5" font-weight="600" letter-spacing="3.2">CAIO · CTO · CMO · CREATIVE DIRECTOR · SYSTEMS ARCHITECT · VIBECODER · WRITER</text>
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.2s" fill="freeze"/>
   </g>
 </svg>
