@@ -90,23 +90,30 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
   <img src="https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=B8895B" alt="GSAP">
   <img src="https://img.shields.io/badge/Lenis-161b22?style=flat-square&logoColor=B8895B" alt="Lenis">
   <img src="https://img.shields.io/badge/Framer%20Motion-161b22?style=flat-square&logo=framer&logoColor=B8895B" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Remotion-161b22?style=flat-square&logo=remotion&logoColor=B8895B" alt="Remotion">
   <img src="https://img.shields.io/badge/MDX-161b22?style=flat-square&logo=mdx&logoColor=B8895B" alt="MDX">
 </p>
 
-<p align="center"><sub><b>B A C K E N D · &nbsp;D A T A</b></sub></p>
+<p align="center"><sub><b>B A C K E N D</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=B8895B" alt="Node.js">
   <img src="https://img.shields.io/badge/Hono-161b22?style=flat-square&logo=hono&logoColor=B8895B" alt="Hono">
   <img src="https://img.shields.io/badge/tRPC-161b22?style=flat-square&logo=trpc&logoColor=B8895B" alt="tRPC">
   <img src="https://img.shields.io/badge/Drizzle-161b22?style=flat-square&logo=drizzle&logoColor=B8895B" alt="Drizzle">
   <img src="https://img.shields.io/badge/Zod-161b22?style=flat-square&logo=zod&logoColor=B8895B" alt="Zod">
+</p>
+
+<p align="center"><sub><b>D A T A · &nbsp;S E R V E R L E S S</b></sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=B8895B" alt="Firebase">
   <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=B8895B" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=B8895B" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=B8895B" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=B8895B" alt="MongoDB">
   <img src="https://img.shields.io/badge/Neon-161b22?style=flat-square&logo=neon&logoColor=B8895B" alt="Neon">
   <img src="https://img.shields.io/badge/TiDB%20Cloud-161b22?style=flat-square&logoColor=B8895B" alt="TiDB Cloud">
+  <img src="https://img.shields.io/badge/Turso-161b22?style=flat-square&logo=turso&logoColor=B8895B" alt="Turso">
+  <img src="https://img.shields.io/badge/PlanetScale-161b22?style=flat-square&logo=planetscale&logoColor=B8895B" alt="PlanetScale">
+  <img src="https://img.shields.io/badge/Upstash-161b22?style=flat-square&logo=upstash&logoColor=B8895B" alt="Upstash">
 </p>
 
 <p align="center"><sub><b>R O B L O X · &nbsp;G A M E D E V</b></sub></p>
@@ -161,12 +168,35 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
   <img src="https://img.shields.io/badge/OpenAI%20Codex-161b22?style=flat-square&logo=openai&logoColor=B8895B" alt="OpenAI Codex">
 </p>
 
-<p align="center"><sub><b>A I &nbsp; C R E A T I V E · &nbsp;G E N E R A T I V E &nbsp; M E D I A</b></sub></p>
+<p align="center"><sub><b>G E N E R A T I V E &nbsp; I M A G E</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/ComfyUI-161b22?style=flat-square&logoColor=B8895B" alt="ComfyUI">
+  <img src="https://img.shields.io/badge/Flux-161b22?style=flat-square&logoColor=B8895B" alt="Flux">
+  <img src="https://img.shields.io/badge/Midjourney-161b22?style=flat-square&logoColor=B8895B" alt="Midjourney">
+  <img src="https://img.shields.io/badge/Ideogram-161b22?style=flat-square&logoColor=B8895B" alt="Ideogram">
+  <img src="https://img.shields.io/badge/Krea-161b22?style=flat-square&logoColor=B8895B" alt="Krea">
   <img src="https://img.shields.io/badge/Magnific-161b22?style=flat-square&logoColor=B8895B" alt="Magnific">
   <img src="https://img.shields.io/badge/Flora-161b22?style=flat-square&logoColor=B8895B" alt="Flora">
+</p>
+
+<p align="center"><sub><b>G E N E R A T I V E &nbsp; V I D E O</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Runway-161b22?style=flat-square&logoColor=B8895B" alt="Runway">
+  <img src="https://img.shields.io/badge/Kling-161b22?style=flat-square&logoColor=B8895B" alt="Kling">
+  <img src="https://img.shields.io/badge/Veo-161b22?style=flat-square&logoColor=B8895B" alt="Veo">
+  <img src="https://img.shields.io/badge/Hailuo-161b22?style=flat-square&logoColor=B8895B" alt="Hailuo">
   <img src="https://img.shields.io/badge/LTX%20Studio-161b22?style=flat-square&logoColor=B8895B" alt="LTX Studio">
+  <img src="https://img.shields.io/badge/Remotion-161b22?style=flat-square&logo=remotion&logoColor=B8895B" alt="Remotion">
+</p>
+
+<p align="center"><sub><b>A I &nbsp; A U D I O · &nbsp;G E N &nbsp; I N F R A</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ElevenLabs-161b22?style=flat-square&logo=elevenlabs&logoColor=B8895B" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/Suno-161b22?style=flat-square&logoColor=B8895B" alt="Suno">
+  <img src="https://img.shields.io/badge/fal.ai-161b22?style=flat-square&logoColor=B8895B" alt="fal.ai">
+  <img src="https://img.shields.io/badge/Replicate-161b22?style=flat-square&logo=replicate&logoColor=B8895B" alt="Replicate">
+  <img src="https://img.shields.io/badge/Runpod-161b22?style=flat-square&logoColor=B8895B" alt="Runpod">
+  <img src="https://img.shields.io/badge/Modal-161b22?style=flat-square&logoColor=B8895B" alt="Modal">
 </p>
 
 <p align="center"><sub><b>Q U A L I T Y · &nbsp;A N A L Y T I C S · &nbsp;A R C H I T E C T U R E</b></sub></p>
