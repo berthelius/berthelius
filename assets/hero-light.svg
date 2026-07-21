@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img" aria-label="Viktor Berthelius — Founder, systems builder">
+  <rect width="1200" height="460" fill="#FAFAF7"/>
+
+  <!-- masthead -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" opacity="0">
+    <text x="90" y="62" fill="#8A857D" font-size="15" font-weight="600" letter-spacing="6">B R T H L S ™</text>
+    <text x="1110" y="62" text-anchor="end" fill="#8A857D" font-size="15" font-weight="500" letter-spacing="6">EST. TENERIFE · ATLANTIC</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze"/>
+  </g>
+
+  <!-- top rule -->
+  <line x1="90" y1="92" x2="1110" y2="92" stroke="#DAD5CC" stroke-width="1.5"
+        stroke-dasharray="1020" stroke-dashoffset="1020">
+    <animate attributeName="stroke-dashoffset" from="1020" to="0" dur="1.1s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="1020;0"/>
+  </line>
+
+  <!-- kicker -->
+  <text x="90" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" fill="#9A6B3C" font-size="16" font-weight="600" letter-spacing="4" opacity="0">
+    FOUNDER @ FRIHET · BRAND SYSTEMS @ BRTHLS
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.5s" fill="freeze"/>
+  </text>
+
+  <!-- name -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700">
+    <text x="86" y="272" fill="#14110E" font-size="122" letter-spacing="2" opacity="0">
+      VIKTOR
+      <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 24" to="0 0" dur="0.9s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0 24;0 0"/>
+    </text>
+    <text x="86" y="392" fill="#FAFAF7" stroke="#14110E" stroke-width="1.4" font-size="122" letter-spacing="2" opacity="0">
+      BERTHELIUS
+      <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.78s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 24" to="0 0" dur="0.9s" begin="0.78s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0 24;0 0"/>
+    </text>
+  </g>
+
+  <!-- bottom rule -->
+  <line x1="90" y1="420" x2="1110" y2="420" stroke="#DAD5CC" stroke-width="1.5"
+        stroke-dasharray="1020" stroke-dashoffset="1020">
+    <animate attributeName="stroke-dashoffset" from="1020" to="0" dur="1.1s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="1020;0"/>
+  </line>
+
+  <!-- footer roles -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" opacity="0">
+    <circle cx="97" cy="444" r="4" fill="#9A6B3C"/>
+    <text x="112" y="449" fill="#6B6660" font-size="14.5" font-weight="600" letter-spacing="3.5">CAIO · CTO · CMO · ARCHITECT · VIBECODER · MUSICIAN · WRITER</text>
+    <text x="1110" y="449" text-anchor="end" fill="#6B6660" font-size="14.5" font-weight="500" letter-spacing="3.5">AI-NATIVE SYSTEMS</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.2s" fill="freeze"/>
+  </g>
+</svg>
