@@ -38,6 +38,8 @@ OCR · treasury · automations &amp; integrations<br>(Stripe · Zapier · n8n) �
 
 [**frihet.io**](https://frihet.io) &nbsp;·&nbsp; [app](https://app.frihet.io) &nbsp;·&nbsp; [docs](https://docs.frihet.io)
 
+<sub>Agent-native →</sub> [MCP on Smithery](https://smithery.ai/servers/@frihet/frihet-mcp) · [SDK](https://github.com/Frihet-io/frihet-sdk) · [@Frihet-io](https://github.com/Frihet-io)
+
 </td>
 <td width="440" valign="top" align="center">
 
@@ -231,6 +233,10 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
   <a href="https://linkedin.com/in/berthelius"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=B8895B" alt="LinkedIn"></a>
   <a href="https://x.com/berthelius"><img src="https://img.shields.io/badge/@berthelius-161b22?style=flat-square&logo=x&logoColor=B8895B" alt="X"></a>
   <a href="https://dev.to/brthls"><img src="https://img.shields.io/badge/dev.to-161b22?style=flat-square&logo=devdotto&logoColor=B8895B" alt="dev.to"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=berthelius&label=PROFILE%20VIEWS&color=B8895B&style=flat-square&labelColor=161b22" alt="Profile views">
 </p>
 
 <p align="center">
