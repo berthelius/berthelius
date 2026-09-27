@@ -58,7 +58,7 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
 
 <table align="center" width="880">
 <tr>
-<td align="center">
+<td width="880" align="center">
 
 <sub>FEATURED · OPEN SOURCE</sub>
 
