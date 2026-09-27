@@ -56,6 +56,28 @@ A general theory of brand machines —<br>strategy, identity &amp; content pipel
 
 <br>
 
+<table align="center" width="880">
+<tr>
+<td align="center">
+
+<sub>FEATURED · OPEN SOURCE</sub>
+
+### BRAND MACHINES
+**From a book about brand systems to a method agents can use.**
+
+Seven layers, an installable **Agent Skill**, and a source-backed workflow<br>to diagnose, propose and review brand decisions.
+
+<sub>Dependency-free local CLI + HTTP API · MIT · Spanish-first</sub><br>
+<sub>Structural checks run locally. The agent performs semantic review against the sources.</sub>
+
+[**Explore the agent edition →**](https://github.com/berthelius/brand-machines-agents) &nbsp;·&nbsp; [the book](https://machines.brthls.com) &nbsp;·&nbsp; [on BRTHLS](https://www.brthls.com/book)
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <h3 align="center">◇ &nbsp;S T A C K</h3>
 <p align="center"><sub><i>From the Flash era to AI-native — a 27-year toolbox. A curated slice:</i></sub></p>
 
